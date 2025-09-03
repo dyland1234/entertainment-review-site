@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Entertainment Review (ER)</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="nav-wrap">
+      <a class="logo" href="index.html">ER</a>
+
+      <nav class="nav">
+        <button class="chip" data-cat="All">All</button>
+        <button class="chip" data-cat="Movies">Movies</button>
+        <button class="chip" data-cat="Music">Music</button>
+        <button class="chip" data-cat="Gaming">Gaming</button>
+        <button class="chip" data-cat="Books">Books</button>
+      </nav>
+
+      <button id="themeToggle" class="toggle" title="Toggle theme">🌙</button>
+    </div>
+
+    <div class="search-wrap">
+      <input id="searchBar" type="search" placeholder="Search reviews, categories, titles…" />
+    </div>
+  </header>
+
+  <!-- Hero (featured) -->
+  <section id="hero" class="hero"></section>
+
+  <!-- Grid -->
+  <main id="reviews-container" class="grid"></main>
+  <p id="emptyState" class="empty hidden">No results found.</p>
+
+  <footer class="site-footer">
+    © 2025 Entertainment Review • Made by Lando
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
