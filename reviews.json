@@ -16,7 +16,7 @@
     "title": "Elden Ring – The Future of Open Worlds",
     "category": "Gaming",
     "rating": 5,
-    "image": "images/ER.png",
+    "image": "images/ER.PNG",
     "snippet": "FromSoftware turns exploration into pure discovery—no hand-holding.",
     "content": "Elden Ring’s Lands Between feel authored yet feral. The map doesn’t nag—you’re trusted to wander, fail, and return smarter. Combat is deep, builds are expressive, and the world rewards curiosity.\n\nThe difficulty curve will lose some players, but that high friction is the secret sauce behind the high payoff.",
     "pros": ["Vast, cohesive world", "Highly expressive builds", "Memorable boss design"],
@@ -27,7 +27,7 @@
     "title": "Oppenheimer – Brains, Bombast, Burden",
     "category": "Movies",
     "rating": 4,
-    "image": "images/OP.png",
+    "image": "images/OP.PNG",
     "snippet": "Nolan splices moral weight with bravura craft and sound.",
     "content": "Cillian Murphy anchors a dense, morally charged drama that toggles between genius and guilt. The sound design and IMAX photography create a sensory gravity well.\n\nIt’s verbose and long—but the ambition sings, and the last act lingers.",
     "pros": ["Towering lead performance", "Sound & image at full tilt", "Rich moral texture"],
@@ -57,4 +57,5 @@
     "cons": ["Too much comedy"]
   }
 ]
+
 
