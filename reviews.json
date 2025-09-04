@@ -11,6 +11,17 @@
     "pros": [""],
     "cons": [""]
   },
+     {
+    "id": 6,
+    "title": "7 Things You MISSED In the 007: First Light Gameplay Deep Dive",
+    "category": "Gaming",
+    "rating": 3,
+    "image": "images/bond.jpg",
+    "snippet": "IO Interactive's new spy thriller is packed with details. Here's what stood out to us",
+    "content": "The deep dive gameplay for 007: First Light is out, and the internet is buzzing. As your dedicated Entertainment Reviewers, we've broken down everything not just the flashy action, but wht the game truly gets right and where it might stmble. Here's the honest Intel. <p><h1>The Good: What First Light Nails</h1></p> <h2><p>True Espionage Sandbox</h2></p> This isn't a mindless shooter. The gameplay reveals a focus on the player choice: stealth takedowns, environmental distractions, and multiple paths to objectives. It feels like a natural-and welcome-evolution of IO Interactives's Hitman formula, adapted for Bond's style <p><h2>A Bond Origin Story Done Right</p></h2> We're not just getting another mission; we're seeing how Bond becomes Bond. From the prototype Walther PPK to the hints of a young Q, the game smartly weaves in origin elements without feeling forced<p><h2>Attention to Detail</p></h2> Background NPC's discuss relevant events. Weather dynamically impacts the gameplay. These touches suggest a living, reactive world - a hallmark of immersive sims.<p><h1>The Bad: Potential Red Flags</h1></p><p><h2>Familiar, maybe too Familiar</h2></p>If you've played Hitman, the systems here-distractions, disguises, environmental kills-will feel very familiar. The risk? It might not innovate enough to stand on it's own. <p><h2>Story Predictability</h2></p>An origin story risks being predictable. Will the narrative offer real suprises, or just check boxes on the way to Bond becoming 007? ",
+    "pros": ["True Espionage Sandbox", "Bond Origin Story DOne Right", "Attention to Detail"],
+    "cons": ["Familiarity"]
+  },
   {
     "id": 2,
     "title": "Elden Ring – The Future of Open Worlds",
@@ -57,6 +68,7 @@
     "cons": ["Too much comedy"]
   }
 ]
+
 
 
 
