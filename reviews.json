@@ -2,13 +2,13 @@
      
   {
     "id": 5,
-    "title": "Michael Jackson – The KING of POP",
-    "category": "Music",
+    "title": "James Gunn Unveils Superman: Man of Tomorrow for 2027",
+    "category": "Movies",
     "rating": 5,
-    "image": "images/mj.jpg",
-    "snippet": "How MJ’s innovation, vocals, and performance still define pop.",
-    "content": "Michael Jackson didn’t just top charts—he engineered a blueprint for pop stardom that still runs today. From sonic experimentation on “Thriller” to genre-bending visuals and choreography, MJ fused sound, spectacle, and storytelling into a single, global language.\n\nHis influence is audible in modern pop, R&B, and even K-pop staging. The critique is that his personal controversies overshadow the art; the counterpoint is that the artistic legacy remains singular.",
-    "pros": ["Iconic choreography & stagecraft", "Record-shattering catalog", "Cross-generational influence"],
+    "image": "images/james.avif",
+    "snippet": "DCU's Next Chapter: Man of Tomorrow Sets July, 2027 Release with Game-Changing Superman-Luthor Dynamic",
+    "content": "In a thrilling move for DC fans worldwide, James Gunn has officially announced the sequel to this summer's blockbuster Superman, titled Man of Tomorrow, set to soar into theaters on July 9, 2027. The announcement, made via Gunn's social media account was accompanied by a stunning concept artwork that has already sparked fervent speculation about the plot and dynamics of the upcoming movie. While the plot details remain under wraps, the artwork and Gunn's previous comments suggest a complex narrative. In the first film, Luthor's hatred for superman culminated in his disgrace and imprisonment at Belle Reve. However, the sequel may see luthor paroled to assist in a classified government project.. Man of Tomorrow is part of a broader DCU slate, following Supergirl (June 2026) and Clayface (September 2026). Gunn has reffered his Superman films as the Superman Saga, indicating a multi-part narrativve that will extend beyond this sequel. The integration of characters like Supergirl and the JUstice Society suggests a connected universe building toward larger storylines",
+    "pros": [""],
     "cons": [""]
   },
   {
@@ -57,6 +57,7 @@
     "cons": ["Too much comedy"]
   }
 ]
+
 
 
 
