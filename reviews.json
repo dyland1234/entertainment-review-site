@@ -58,17 +58,7 @@
     "pros": ["True Espionage Sandbox", "Bond Origin Story DOne Right", "Attention to Detail"],
     "cons": ["Familiarity"]
   },
-  {
-    "id": 6,
-    "title": "Elden Ring – The Future of Open Worlds",
-    "category": "Gaming",
-    "rating": 5,
-    "image": "images/ER.PNG",
-    "snippet": "FromSoftware turns exploration into pure discovery—no hand-holding.",
-    "content": "Elden Ring’s Lands Between feel authored yet feral. The map doesn’t nag—you’re trusted to wander, fail, and return smarter. Combat is deep, builds are expressive, and the world rewards curiosity.\n\nThe difficulty curve will lose some players, but that high friction is the secret sauce behind the high payoff.",
-    "pros": ["Vast, cohesive world", "Highly expressive builds", "Memorable boss design"],
-    "cons": ["Steep learning curve"]
-  },
+  
   {
     "id": 7,
     "title": "Oppenheimer – Brains, Bombast, Burden",
@@ -91,19 +81,9 @@
     "pros": ["Actionable playbook", "Clear structure & examples", "Great for beginners"],
     "cons": ["Repetitive if you’ve read similar books"]
   }
-,
-    {
-    "id": 9,
-    "title": "Superman - Truth, Justice and a Better Tomorrow",
-    "category": "Movies",
-    "rating": 4,
-    "image": "images/superman.jfif",
-    "snippet": "Superman - Truth, Justice and a Better Tomorrow",
-    "content": "A triumph return to form. This is the Superman we've been waiting for: soaring, hopeful epic that remind us why he's the world's greates superhero. Superman became another block buster hit for DC Studios following the success of Creature Commandoes months prior. The movie was not only good but it exceeded the expectation of it's last incarnation, Man of Steel which was a controversial movie and the launch of a failed universe that is the DCEU. James Gunn not only understood superman he understood the core concept of what it's means to be kind which is superman's number one trait, he also brought superman back to the bright and hopeful dork we all know and love contrast to the dark and gritty vibe of Zack Snyder. So we, the folks at ER give Superman 4/5 stars  ",
-    "pros": ["It displays the Core character of superman", "Bright and hopeful", "Kindness is the new punk rock"],
-    "cons": ["Too much comedy"]
-  }
+
 ]
+
 
 
 
