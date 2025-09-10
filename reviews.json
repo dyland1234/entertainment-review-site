@@ -71,7 +71,7 @@
     "cons": ["Talky & lengthy for some"]
   },
   {
-    "id": 8,
+    "id": 5,
     "title": "Atomic Habits – Tiny Steps, Big Compounding",
     "category": "Books",
     "rating": 4,
@@ -80,9 +80,22 @@
     "content": "Clear’s core loop—cue, craving, response, reward—packages behavioral science into tactics normal people can execute. Systems > goals; identity > outcomes.\n\nIt’s simple enough to apply tomorrow, though seasoned readers may find parts familiar.",
     "pros": ["Actionable playbook", "Clear structure & examples", "Great for beginners"],
     "cons": ["Repetitive if you’ve read similar books"]
-  }
+  },
+     {
+  "id": 6,
+  "title": "Charlie Kirk Dead at 31 After Utah Shooting",
+  "category": "News",
+  "rating": 4,
+  "image": "images/charliekirk.jpg",
+  "snippet": "The Turning Point USA founder was fatally shot during an event at Utah Valley University.",
+  "content": "Conservative activist Charlie Kirk, founder of Turning Point USA, died on September 10, 2025, after being shot at a campus event in Utah. He was 31 years old.<br><br><h3>The Shooting</h3><div style='text-align:center;'><img src='images/charliekirk_event.jpg' alt='Charlie Kirk speaking at event' style='max-width:500px;width:100%;height:auto;display:block;margin:auto;'></div><br>Kirk was speaking during the 'American Comeback Tour' at Utah Valley University when gunfire erupted. According to authorities, the suspect was immediately taken into custody, and the FBI confirmed it is investigating the incident. Kirk was transported to a hospital but later died of his injuries.<br><br><h3>Who Was Charlie Kirk?</h3><div style='text-align:center;'><img src='images/charliekirk_tpusa.jpg' alt='Charlie Kirk at Turning Point USA' style='max-width:500px;width:100%;height:auto;display:block;margin:auto;'></div><br>Born in 1994, Kirk rose to prominence as a conservative commentator and activist. At 18, he founded Turning Point USA, a nonprofit organization aimed at mobilizing young conservatives. Under his leadership, the group became a major player in right-wing politics, particularly on college campuses.<br><br><h3>Reactions</h3><div style='text-align:center;'><img src='images/charliekirk_trump.jpg' alt='Donald Trump reacting' style='max-width:500px;width:100%;height:auto;display:block;margin:auto;'></div><br>Former President Donald Trump publicly confirmed Kirk’s death and called him a \"patriot who inspired millions.\" Political figures, media outlets, and public commentators across the spectrum expressed shock at the shooting. While supporters mourned his loss, critics acknowledged his influence despite frequent controversies.<br><br><h3>Legacy</h3><div style='text-align:center;'><img src='images/charliekirk_legacy.jpg' alt='Charlie Kirk memorial' style='max-width:500px;width:100%;height:auto;display:block;margin:auto;'></div><br>Kirk was a polarizing figure, praised for galvanizing young conservatives but also criticized for inflammatory rhetoric and partisan activism. His sudden death leaves a significant gap in conservative organizing and raises broader concerns about political violence in the United States.<br><br>Kirk’s impact on American politics is undeniable. Whether one agreed with his views or not, his work reshaped youth involvement in conservatism and made him a central figure in the political conversation of his era.",
+  "pros": ["Captures the facts of the event", "Provides context on his career", "Balanced tone"],
+  "cons": ["Details still developing", "Highly polarizing subject"]
+}
+
 
 ]
+
 
 
 
