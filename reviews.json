@@ -12,7 +12,7 @@
 },
 
 {
-  "id": 10,
+  "id": 2,
   "title": "Was the Mortal Kombat Reboot a Failure?",
   "category": "Movies",
   "rating": 3,
@@ -24,7 +24,7 @@
 },
      
   {
-    "id": 5,
+    "id": 3,
     "title": "James Gunn Unveils Superman: Man of Tomorrow for 2027",
     "category": "Movies",
     "rating": 5,
@@ -37,7 +37,7 @@
 
       
       {
-    "id": 2,
+    "id": 4,
     "title": "The Defining Games of The 2010's: A Decade That Changed Gaming Forever ",
     "category": "Gaming",
     "rating": 5,
@@ -48,7 +48,7 @@
     "cons": ["e"]
   },
      {
-    "id": 6,
+    "id": 5,
     "title": "7 Things You MISSED In the 007: First Light Gameplay Deep Dive",
     "category": "Gaming",
     "rating": 3,
@@ -59,7 +59,7 @@
     "cons": ["Familiarity"]
   },
   {
-    "id": 2,
+    "id": 6,
     "title": "Elden Ring – The Future of Open Worlds",
     "category": "Gaming",
     "rating": 5,
@@ -70,7 +70,7 @@
     "cons": ["Steep learning curve"]
   },
   {
-    "id": 3,
+    "id": 7,
     "title": "Oppenheimer – Brains, Bombast, Burden",
     "category": "Movies",
     "rating": 4,
@@ -81,7 +81,7 @@
     "cons": ["Talky & lengthy for some"]
   },
   {
-    "id": 4,
+    "id": 8,
     "title": "Atomic Habits – Tiny Steps, Big Compounding",
     "category": "Books",
     "rating": 4,
@@ -93,7 +93,7 @@
   }
 ,
     {
-    "id": 1,
+    "id": 9,
     "title": "Superman - Truth, Justice and a Better Tomorrow",
     "category": "Movies",
     "rating": 4,
@@ -104,6 +104,7 @@
     "cons": ["Too much comedy"]
   }
 ]
+
 
 
 
