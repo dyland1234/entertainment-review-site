@@ -1,4 +1,15 @@
 [
+     {
+  "id": 8,
+  "title": "Top 10 Greatest Music Artistes of All Time",
+  "category": "Music",
+  "rating": 5,
+  "image": "images/mj.jpg",
+  "snippet": "From Michael Jackson to Aretha Franklin, these legends shaped music forever.",
+  "content": "Music has shaped culture, inspired movements, and created legends whose influence stretches far beyond sound. While countless musicians have left their mark, a few have risen above the rest to become true icons. Here is a look at the Top 10 Greatest Music Artistes of All Time— with Michael Jackson at the very top.<br><br><h4>1. Michael Jackson – The King of Pop</h4><img src='images/mj.jpg' alt='Michael Jackson' style='width:200px;height:auto;'><br>Michael Jackson redefined artistry with groundbreaking albums like Thriller, unforgettable performances, and cultural impact that remains unmatched.<br><h4>2. The Beatles – The Fab Four</h4><img src='images/beatles.jpg' alt='The Beatles' style='width:200px;height:auto;'><br>John, Paul, George, and Ringo transformed popular music and inspired generations with timeless hits.<br><h4>3. Elvis Presley – The King of Rock ‘n’ Roll</h4><img src='images/elvis.jpg' alt='Elvis Presley' style='width:200px;height:auto;'><br>His electrifying stage presence and voice introduced rock to the mainstream and made him a cultural icon.<br><h4>4. Bob Marley – The Reggae Prophet</h4><img src='images/marley.jpg' alt='Bob Marley' style='width:200px;height:auto;'><br>Spreading messages of love, unity, and freedom, Marley made reggae a global phenomenon.<br><h4>5. Whitney Houston – The Voice</h4><img src='images/whitney.jpg' alt='Whitney Houston' style='width:200px;height:auto;'><br>Her unmatched vocal power and emotion made her one of the greatest singers ever.<br><h4>6. Madonna – The Queen of Pop</h4><img src='images/madonna.jpg' alt='Madonna' style='width:200px;height:auto;'><br>A master of reinvention, Madonna influenced music, fashion, and culture worldwide.<br><h4>7. Beyoncé – The Modern Icon</h4><img src='images/beyonce.jpg' alt='Beyoncé' style='width:200px;height:auto;'><br>Her commanding performances and powerful voice cemented her as a defining artiste of this generation.<br><h4>8. Prince – The Purple One</h4><img src='images/prince.jpg' alt='Prince' style='width:200px;height:auto;'><br>Prince was a musical genius whose creativity spanned funk, rock, and R&B.<br><h4>9. 2Pac – The Voice of a Generation</h4><img src='images/2pac.jpg' alt='Tupac Shakur' style='width:200px;height:auto;'><br>Tupac’s raw storytelling and social commentary made him one of the most influential rappers in history.<br><h4>10. Aretha Franklin – The Queen of Soul</h4><img src='images/aretha.jpg' alt='Aretha Franklin' style='width:200px;height:auto;'><br>Her commanding voice and classics like Respect made her the voice of empowerment and soul music.<br><br>From reggae to rock, soul to pop, these artistes defined eras and changed music forever. Yet standing above them all is Michael Jackson, whose artistry and influence make him the greatest of all time.",
+  "pros": ["Diverse representation of genres", "Highlights cultural impact", "Declares Michael Jackson as #1"],
+  "cons": ["Highly subjective list"]
+},
      
   {
     "id": 5,
@@ -81,6 +92,7 @@
     "cons": ["Too much comedy"]
   }
 ]
+
 
 
 
