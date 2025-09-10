@@ -12,17 +12,7 @@
     "cons": [""]
   },
 
-      {
-    "id": 8,
-    "title": "The Top 10 Greatest Music Artistes of All Time",
-    "category": "Music",
-    "rating": 5,
-    "image": "",
-    "snippet": "",
-    "content": "Music has shaped culture, inspired movements, and created legends whose influence stretches far beyond sound. While countless musicians have left their mark, a few have risen above the rest to become true icons. <p><h5>10. Aretha Franklin – The Queen of Soul </h5></p> <p>With her commanding voice and timeless classics like Respect, Aretha became the voice of empowerment and soul music worldwide.</p>",
-    "pros": [""],
-    "cons": ["e"]
-  },
+      
       {
     "id": 2,
     "title": "The Defining Games of The 2010's: A Decade That Changed Gaming Forever ",
@@ -91,6 +81,7 @@
     "cons": ["Too much comedy"]
   }
 ]
+
 
 
 
