@@ -1,6 +1,15 @@
 [
-     {
+    {
   "id": 1,
+  "title": "Selena Gomez Marries Benny Blanco in Intimate California Ceremony",
+  "category": "Entertainment",
+  "rating": 5,
+  "image": "images/selena_wedding.jpg",
+  "snippet": "Selena Gomez and Benny Blanco tied the knot on September 27, 2025, in a private ceremony in Santa Barbara, California.",
+  "content": "Selena Gomez and Benny Blanco have officially tied the knot! The couple, who began dating in June 2023 and got engaged in December 2024, celebrated their union on September 27, 2025, in a private ceremony in Santa Barbara, California. The intimate event was attended by close friends and family, including notable guests such as Taylor Swift, Ed Sheeran, and Martin Short. <br><br><h3>The Ceremony</h3><div style='text-align:center;'><img src='images/ceremony.jpg' alt='Selena Gomez and Benny Blanco at their wedding ceremony' style='max-width:500px;width:100%;height:auto;display:block;margin:auto;'></div><br>The ceremony took place at Sea Crest Nursery in Hope Ranch, with approximately 170 guests in attendance. Selena wore a custom Ralph Lauren satin halterneck gown featuring lace detailing, while Benny donned a classic black tuxedo, also by Ralph Lauren. The couple exchanged vows in a heartfelt ceremony, marking the beginning of their new chapter together. <br><br><h3>Pre-Wedding Celebrations</h3><div style='text-align:center;'><img src='images/bachelorette.jpg' alt='Selena Gomez at her bachelorette party in Cabo San Lucas' style='max-width:500px;width:100%;height:auto;display:block;margin:auto;'></div><br>Leading up to the wedding, Selena celebrated her bachelorette party in Cabo San Lucas, Mexico, while Benny had his bachelor party in Las Vegas. The couple shared glimpses of their celebrations on social media, showcasing their excitement and joy ahead of the big day. <br><br><h3>Shared History and Future Plans</h3><div style='text-align:center;'><img src='images/album.jpg' alt='Selena Gomez and Benny Blanco during their album collaboration' style='max-width:500px;width:100%;height:auto;display:block;margin:auto;'></div><br>Selena and Benny have a long-standing professional relationship, having collaborated on several hit songs over the years. In March 2025, they released a joint album titled 'I Said I Love You First... And You Said It Back,' which chronicles their love story through music. The couple has expressed their excitement about their future together, with plans to start a family and continue their creative endeavors. <br><br><h3>Public Reactions</h3><div style='text-align:center;'><img src='images/instagram.jpg' alt='Selena Gomez and Benny Blanco sharing a moment on Instagram' style='max-width:500px;width:100%;height:auto;display:block;margin:auto;'></div><br>Following the announcement of their marriage, Selena and Benny received an outpouring of congratulations from fans and fellow celebrities alike. The couple shared intimate moments from their wedding on Instagram, including photos of their first dance and candid shots from the ceremony. Their posts garnered millions of likes and heartfelt messages from their followers. <br><br>Selena and Benny's wedding marks a significant milestone in their relationship, blending their personal and professional lives in a celebration of love and commitment. Their journey together continues to inspire fans around the world, and their shared passion for music and creativity promises an exciting future ahead."
+},
+ {
+  "id": 8,
   "title": "Top 10 Greatest Music Artistes of All Time",
   "category": "Music",
   "rating": 5,
@@ -95,6 +104,7 @@
 
 
 ]
+
 
 
 
