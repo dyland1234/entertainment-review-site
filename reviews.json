@@ -1,6 +1,17 @@
 [
     {
   "id": 1,
+  "title": "Akudama Drive: The Greatest Cyberpunk Anime You’ve Never Watched",
+  "category": "Anime",
+  "rating": 5,
+  "image": "images/akudama_drive.jpg",
+  "snippet": "A neon-soaked, high-octane anime that blends cyberpunk aesthetics with morally gray characters and pulse-pounding action.",
+  "content": "Akudama Drive takes viewers on a wild ride through a dystopian city where lawlessness rules and morality is gray. Set in Kansai, a city divided by a harsh, authoritarian regime, the story follows a group of criminals known as 'Akudama' who are drawn together for a high-stakes heist. <br><img src='images/akudama_team.jpg' alt='Akudama Team' style='width:100%; margin:10px 0;'> Each character is distinct—ranging from the ruthless Courier to the enigmatic Hacker—and the series masterfully explores their motivations, ethical ambiguities, and the consequences of their choices.<br><img src='images/akudama_action.jpg' alt='Action Scene' style='width:100%; margin:10px 0;'> The animation is a visual feast, combining sharp, futuristic cyberpunk environments with fluid, intense action sequences. Its soundtrack perfectly complements the chaotic energy, intensifying the thrill of every chase and conflict. Beyond the surface-level action, Akudama Drive explores themes of rebellion, societal corruption, and the human desire for freedom in a world that suppresses individuality.<br><img src='images/akudama_chase.jpg' alt='Chase Scene' style='width:100%; margin:10px 0;'> Fans of cyberpunk and morally complex storytelling will find themselves hooked from the first episode. Despite its violent and fast-paced narrative, the series balances character development and plot twists, keeping viewers engaged and invested in the outcomes of each Akudama.",
+  "pros": ["Stunning cyberpunk visuals and animation", "Complex, morally ambiguous characters", "Thrilling action and dynamic pacing"],
+  "cons": ["Can be chaotic and intense for casual viewers", "Some plot elements are fast-paced, requiring attention"]
+}
+{
+  "id": 10,
   "title": "Selena Gomez Marries Benny Blanco in Intimate California Ceremony",
   "category": "Music",
   "rating": 5,
@@ -104,6 +115,7 @@
 
 
 ]
+
 
 
 
